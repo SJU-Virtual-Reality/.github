@@ -17,25 +17,48 @@
 ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
+<hr>
 
 ### 어플리케이션 결과물
+#### 1. Start Scene
+<div>
+  <img src = "https://github.com/SJU-Virtual-Reality/.github/blob/main/image/Start.png?raw=true" height = 200> 
+  <img src= "https://github.com/SJU-Virtual-Reality/.github/blob/main/image/UI.png?raw=true" height = 200>
+</div>
+
+#### 2. Main Scene
+<div>
+  <img src = "https://github.com/SJU-Virtual-Reality/.github/blob/main/image/Main.png?raw=true" height = 200> 
+  <img src= "https://github.com/SJU-Virtual-Reality/.github/blob/main/image/Interaction.png?raw=true" height = 200>
+</div>
+
+#### 3. Lake Scene
+<div>
+  <img src = "https://github.com/SJU-Virtual-Reality/.github/blob/main/image/Lake.png?raw=true" height = 200> 
+</div>
+
+#### 4. Forest Scene
+<div>
+  <img src = "https://github.com/SJU-Virtual-Reality/.github/blob/main/image/Forest.png?raw=true" height = 200> 
+</div>
+
+#### 5. Polar Scene
+<div>
+  <img src = "https://github.com/SJU-Virtual-Reality/.github/blob/main/image/Polar.png?raw=true" height = 200> 
+</div>
+
+#### 6. End Scene
+<div>
+  <img src = "https://github.com/SJU-Virtual-Reality/.github/blob/main/image/End.png?raw=true" height = 200> 
+</div>
+<hr>
 
 ### 시연영상
 <a href="https://youtu.be/IISgAXkMjvU">
-  <img src = "./image/start.png">
+  <img src = "https://github.com/SJU-Virtual-Reality/.github/blob/main/image/mp4.png?raw=true" height=300>
 </a>
-    
-### 사용에셋
-XR Interaction Toolkit
 
+### 주요 사용에셋
+- <a href = "https://github.com/Unity-Technologies/XR-Interaction-Toolkit-Examples">XR Interaction Toolkit</a>
+- <a href = "https://github.com/thefuntastic/Unity3d-Finite-State-Machine/blob/master/StateMachine/Assets/MonsterLove/Tests/Editor/MonsterLove.StateMachine.Tests.Editor.asmdef">monsterlove (FSM)</a>
 
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
